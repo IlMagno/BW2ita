@@ -1,16 +1,16 @@
 OH BENE
 ACCESO
 SPENTO
-Barretta rosa
-Barretta blu
-Barretta rossa
+Fiocco rosa
+Fiocco blu
+Fiocco rosso
 Fiore blu
 AAH
 Fiore rosso
-Barretta grande
+Fiocco grande
 Bandana
 Occhiali squadrati
-Barrette a stisce
+Fiocco a stisce
 Barretta piccola
 AVVERSARIO
 Borsa
@@ -25,23 +25,23 @@ Pennello
 Berretto
 Frusta da cucina
 Mestolo
-Torta giocattolo
+Similtorta
 Cappello da chef
 Incubo
-Bib
+Maschera
 Parasole rosso
-Maschera di germi
-Maglio
+Maschera antipolevere
+Martello
 Parasole colorato
 DOMANI
 Lanterna
-Windup Key
+Chiave Carion
 Elmetto
 IO
-Cravatta da vestito
-Lace cape
+Fiocco
+Tiara
 Mantello scarlatto
-Spada giocatolo
+Spada araba giocatolo
 TU
 Cappello da pirata
 Scavare
@@ -49,25 +49,25 @@ Scudo rigido
 Ali nere
 Cappello da strega
 AHAHA
-Umber Belt
+Cintura
 Elmo cornato
 Tridente
 Dolce fraganza
 Fascino
-Cappello da buffone
-Googly Specs
-Crown
+Cappello da giullare
+Occhiali rotondi
+Corona
 Cravatta nera
-Drizzle
+Zampillo
 Gorgeous Specs
-Top Hat
+Cappello a cilindro
 Stordiraggio
 HUH?
-Hail
-Canna
+Grandine
+Bastone
 Cravatta a strighe
-Orologop da tasca
-Bow Tie
+Orologio da tasca
+Farfallino
 Tiara
 Rosa
 Monocolo
