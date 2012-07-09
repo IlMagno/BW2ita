@@ -11,7 +11,7 @@ Fiocco grande
 Bandana
 Occhiali squadrati
 Fiocco a stisce
-Barretta piccola
+Fiocco piccolo
 AVVERSARIO
 Borsa
 Bagliore blu
@@ -30,7 +30,7 @@ Cappello da chef
 Incubo
 Maschera
 Parasole rosso
-Maschera antipolevere
+Maschera antipolvere
 Martello
 Parasole colorato
 DOMANI
